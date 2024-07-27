@@ -1,1 +1,4 @@
+Press Fn+F8 key during Task Sequence and it will open command prompt
+Type Notepad.exe and File >Open >This-PC> C-drive> SMSTaskSequence > Logs > smsts.log
 
+In Notepad > File > Save As > Choose path
